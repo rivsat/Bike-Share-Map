@@ -19,3 +19,6 @@ The App shows data for Melbourne Bike Share, which is a joint RACV/Victorian Gov
 
 [Programming Language] Swift 2.3
 
+[Acknowledgements] The App consumes data from the following service:
+
+https://data.melbourne.vic.gov.au/Transport-Movement/Melbourne-bike-share/tdvh-n9dv/about
